@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100&family=Roboto:ital,wght@1,700&display=swap');
+*{
+    font-family: Kanit,Arial;
+    background-color: antiquewhite;
+}
+
+.exemplo{
+    background-color: black;
+    width: 200px;
+    height: 50px;
+    margin: auto;
+}
+
+input{
+    padding: 10px;
+    background-color: aliceblue;
+    margin-bottom: 10px;
+}
+
+button{
+    margin: 5px;
+    background-color: rgb(184, 65, 89);
+    width: 26px;
+    height: 26px;
+}
+
+p{
+    margin-left: 10px;
+}
